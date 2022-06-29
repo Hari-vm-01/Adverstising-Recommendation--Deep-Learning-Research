@@ -1,5 +1,22 @@
 ## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR prediction, CVR prediction), Post Ranking, Transfer and Reinforcement Learning.
 
+
+## Deep Learning - Online Advertising Systems:
+
+DNN for YouTube: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+
+Wide & Deep models: https://arxiv.org/abs/1606.07792
+
+Offline & Online evaluations: https://chbrown.github.io/kdd-2013-usb/kdd/p1294.pdf
+
+FTRL: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf
+
+FB’s CTR prediction: https://research.facebook.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
+
+Alibaba’s CPC optimization: https://arxiv.org/pdf/1703.02091.pdf
+
+
+
 ## 1_Embedding
 * [2013 (Google) (NIPS) [Word2vec] Distributed Representations of Words and Phrases and their Compositionality](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/1_Embedding/2013%20%28Google%29%20%28NIPS%29%20%5BWord2vec%5D%20Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) <br />
 * [2014 (KDD) [DeepWalk]  DeepWalk - online learning of social representations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/1_Embedding/2014%20%28KDD%29%20%5BDeepWalk%5D%20%20DeepWalk%20-%20online%20learning%20of%20social%20representations.pdf) <br />
